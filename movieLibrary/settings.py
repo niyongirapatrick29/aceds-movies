@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-xsm&t=$go%y%^0kc4kd^+382nsl5n(t#g5)h9v@rko@#$k(5g7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','aceds-movies.herokuapp.com']
 
 
 # Application definition
